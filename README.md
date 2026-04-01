@@ -24,18 +24,6 @@ This project predicts chronic kidney disease using machine learning.
 
 Achieved good performance using multiple ML models.
 
-## ▶️ How to Run
-
-```bash
-pip install -r requirements.txt
-```
-
-Run notebook:
-
-```bash
-jupyter notebook
-```
-
 ## 📁 Dataset
 
 Kidney Disease Dataset
